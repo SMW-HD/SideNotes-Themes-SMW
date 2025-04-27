@@ -41,8 +41,8 @@
         },
         "search": {
             "searchField": {
-                "backgroundColor": "#181920",
-                "textColor": "#F8F8F2",
+                "backgroundColor": "#8F919C",
+                "textColor": "#282A36",
                 "shadow": {
                     "blurRadius": 0,
                     "offsetY": 0
