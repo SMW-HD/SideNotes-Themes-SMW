@@ -1,0 +1,141 @@
+{
+    "$schema": "https://www.apptorium.com/schemas/sntheme.json",
+    "light": {
+        "folder": {
+            "notes": {
+                "clean": {
+                    "code": {
+                        "textColor": "#00000077"
+                    },
+                    "codeBlock": {
+                        "textColor": "#00000077"
+                    },
+                    "quote": {
+                        "textColor": "#00000077"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#282A36",
+                        "backgroundGradient": {
+                            "start": "#282A36",
+                            "end": "#181920"
+                        }
+                    },
+                    {
+                        "backgroundColor": "#F8F8F2",
+                        "backgroundGradient": {
+                            "start": "#F8F8F2",
+                            "end": "#C6C6C2"
+                        }
+                    },
+                    {
+                        "backgroundColor": "#44475A",
+                        "backgroundGradient": {
+                            "start": "#44475A",
+                            "end": "#363948"
+                        }
+                    }
+                ]
+            }
+        },
+        "search": {
+            "searchField": {
+                "backgroundColor": "#ffffffdd",
+                "textColor": "#000000cc",
+                "shadow": {
+                    "blurRadius": 0,
+                    "offsetY": 0
+                }
+            }
+        }
+    },
+    "dark": {
+        "folder": {
+            "notes": {
+                "clean": {
+                    "code": {
+                        "textColor": "#ffffff99"
+                    },
+                    "codeBlock": {
+                        "textColor": "#ffffff99"
+                    },
+                    "quote": {
+                        "textColor": "#ffffff99"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#753636",
+                        "backgroundGradient": {
+                            "start": "#753636",
+                            "end": "#612D2D"
+                        },
+                        "textColor": "#ffffff"
+                    },
+                    {
+                        "backgroundColor": "#317E55",
+                        "backgroundGradient": {
+                            "start": "#317E55",
+                            "end": "#236A44"
+                        },
+                        "textColor": "#ffffff",
+                        "linkColor": "#7fb2ff"
+                    },
+                    {
+                        "backgroundColor": "#3E5097",
+                        "backgroundGradient": {
+                            "start": "#3E5097",
+                            "end": "#344486"
+                        },
+                        "textColor": "#ffffff"
+                    },
+                    {
+                        "backgroundColor": "#D4BE5C",
+                        "backgroundGradient": {
+                            "start": "#D4BE5C",
+                            "end": "#BCA43C"
+                        },
+                        "textColor": "#ffffff",
+                        "code": {
+                            "textColor": "#ffffffbb"
+                        },
+                        "codeBlock": {
+                            "textColor": "#ffffffbb"
+                        },
+                        "quote": {
+                            "textColor": "#ffffffbb"
+                        },
+                        "linkColor": "#2762ba"
+                    },
+                    {
+                        "backgroundColor": "#875D88",
+                        "backgroundGradient": {
+                            "start": "#875D88",
+                            "end": "#794F7A"
+                        },
+                        "textColor": "#ffffff",
+                        "linkColor": "#7fb2ff"
+                    },
+                    {
+                        "backgroundColor": "#535353",
+                        "backgroundGradient": {
+                            "start": "#535353",
+                            "end": "#454545"
+                        },
+                        "textColor": "#ffffff"
+                    }
+                ]
+            }
+        },
+        "search": {
+            "searchField": {
+                "backgroundColor": "#00000033",
+                "shadow": {
+                    "blurRadius": 0,
+                    "offsetY": 0
+                }
+            }
+        }
+    }
+}
