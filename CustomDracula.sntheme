@@ -5,23 +5,16 @@
             "notes": {
                 "clean": {
                     "code": {
-                        "textColor": "#00000077"
+                        "textColor": "#282A36"
                     },
                     "codeBlock": {
-                        "textColor": "#00000077"
+                        "textColor": "#282A3630"
                     },
                     "quote": {
-                        "textColor": "#00000077"
+                        "textColor": "#282A3660"
                     }
                 },
                 "colors": [
-                    {
-                        "backgroundColor": "#282A36",
-                        "backgroundGradient": {
-                            "start": "#282A36",
-                            "end": "#181920"
-                        }
-                    },
                     {
                         "backgroundColor": "#F8F8F2",
                         "backgroundGradient": {
@@ -30,10 +23,17 @@
                         }
                     },
                     {
-                        "backgroundColor": "#44475A",
+                        "backgroundColor": "#B68EEE",
                         "backgroundGradient": {
-                            "start": "#44475A",
-                            "end": "#363948"
+                            "start": "#B68EEE",
+                            "end": "#C5A5F1"
+                        }
+                    },
+                    {
+                        "backgroundColor": "#F1FA8C",
+                        "backgroundGradient": {
+                            "start": "#F1FA8C",
+                            "end": "#F4FBA3"
                         }
                     }
                 ]
@@ -41,8 +41,8 @@
         },
         "search": {
             "searchField": {
-                "backgroundColor": "#ffffffdd",
-                "textColor": "#000000cc",
+                "backgroundColor": "#181920",
+                "textColor": "#F8F8F2",
                 "shadow": {
                     "blurRadius": 0,
                     "offsetY": 0
@@ -55,75 +55,76 @@
             "notes": {
                 "clean": {
                     "code": {
-                        "textColor": "#ffffff99"
+                        "textColor": "#F8F8F2"
                     },
                     "codeBlock": {
-                        "textColor": "#ffffff99"
+                        "textColor": "#F8F8F240"
                     },
                     "quote": {
-                        "textColor": "#ffffff99"
+                        "textColor": "#C6C6C2"
                     }
                 },
                 "colors": [
                     {
-                        "backgroundColor": "#753636",
+                        "backgroundColor": "#282A36",
                         "backgroundGradient": {
-                            "start": "#753636",
+                            "start": "#282A36",
                             "end": "#612D2D"
                         },
-                        "textColor": "#ffffff"
+                        "textColor": "#F8F8F2"
                     },
                     {
-                        "backgroundColor": "#317E55",
+                        "backgroundColor": "#27232A",
                         "backgroundGradient": {
-                            "start": "#317E55",
-                            "end": "#236A44"
+                            "start": "#27232A",
+                            "end": "#1F1C22"
                         },
-                        "textColor": "#ffffff",
-                        "linkColor": "#7fb2ff"
+                        "textColor": "#F8F8F2",
+                        "linkColor": "#8BE9FD"
                     },
                     {
-                        "backgroundColor": "#3E5097",
+                        "backgroundColor": "#44475A",
                         "backgroundGradient": {
-                            "start": "#3E5097",
-                            "end": "#344486"
+                            "start": "#44475A",
+                            "end": "#363948"
                         },
-                        "textColor": "#ffffff"
+                        "textColor": "#F8F8F2"
                     },
                     {
-                        "backgroundColor": "#D4BE5C",
+                        "backgroundColor": "#CC4444",
                         "backgroundGradient": {
-                            "start": "#D4BE5C",
-                            "end": "#BCA43C"
+                            "start": "#CC4444",
+                            "end": "#FF5555"
                         },
-                        "textColor": "#ffffff",
+                        "textColor": "#F8F8F2",
                         "code": {
-                            "textColor": "#ffffffbb"
+                            "textColor": "#F8F8F2"
                         },
                         "codeBlock": {
-                            "textColor": "#ffffffbb"
+                            "textColor": "#F8F8F240"
                         },
                         "quote": {
-                            "textColor": "#ffffffbb"
+                            "textColor": "#C6C6C2"
                         },
-                        "linkColor": "#2762ba"
+                        "linkColor": "#606F9E"
                     },
                     {
-                        "backgroundColor": "#875D88",
+                        "backgroundColor": "#FFB86C",
                         "backgroundGradient": {
-                            "start": "#875D88",
-                            "end": "#794F7A"
+                            "start": "#FFB86C",
+                            "end": "#CC9356"
                         },
-                        "textColor": "#ffffff",
-                        "linkColor": "#7fb2ff"
+                        "textColor": "#F8F8F2",
+                        "linkColor": "#6FBACA"
                     },
                     {
-                        "backgroundColor": "#535353",
+                        "backgroundColor": "#40C862",
                         "backgroundGradient": {
-                            "start": "#535353",
-                            "end": "#454545"
+                            "start": "#40C862",
+                            "end": "#30964A"
                         },
-                        "textColor": "#ffffff"
+                        "textColor": "#F8F8F2"
+                        "linkColor": "#6FBACA"
                     }
                 ]
             }
